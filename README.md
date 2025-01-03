@@ -17,7 +17,6 @@ XUnity Auto Translator是为unity提供的一个翻译插件，这个插件作�
     [Custom]
     Url=http://localhost:5000/translate
     
-    6.然后就完了
 
 这玩意经过测试支持并发翻译，但是在XUnity Auto Translator似乎没什么太大区别，希望有大佬来修一下
 
