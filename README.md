@@ -6,7 +6,7 @@
 这破产版酒馆唯一的作用就是测测角色卡的水平<br>
 
 XUnity Auto Translator是为unity提供的一个翻译插件，这个插件作者似乎没有提供比较懒狗的api站接口，于是随便拿python搓了一个<br>
-    简单的使用教程：
+    简单的使用教程：<br>
     1.安装python3.x<br>
     2.安装一堆库：pip install openai markdown tkhtmlview aiohttp fastapi uvicorn<br>
     3.运行ChatEndpoint.py并配置好你的key和url，点击启动翻译接口<br>
