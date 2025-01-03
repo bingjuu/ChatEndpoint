@@ -20,5 +20,5 @@ XUnity Auto Translator是为unity提供的一个翻译插件，这个插件作�
 
 这玩意经过测试支持并发翻译，但是在XUnity Auto Translator似乎没什么太大区别，希望有大佬来修一下<br>
 
-看到同样用[XUnity Auto Translator](https://github.com/bbepis/XUnity.AutoTranslator)提供unity翻译的，4o且只有4o卖30一个月，去api站买30r的4o能用半年，况且现在还有很多比4o更好更便宜的模型<br>
+看到同样用[XUnity Auto Translator](https://github.com/bbepis/XUnity.AutoTranslator)提供unity翻译的，4o且只有4o卖30一个月，去api站买30r的4o能用半年，况且现在还有很多比4o更好更便宜的模型,省点钱吃好点不香吗<br>
 
